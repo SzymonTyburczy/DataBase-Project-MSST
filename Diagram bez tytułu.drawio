@@ -34,7 +34,7 @@
         <mxCell id="4889p7bt1avp2y3wRski-78" value="Pracownicy" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="465" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4889p7bt1avp2y3wRski-79" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4889p7bt1avp2y3wRski-78">
+        <mxCell id="4889p7bt1avp2y3wRski-79" value="+ Imie&lt;br&gt;+Nazwisko&lt;br&gt;+Stanowisko" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4889p7bt1avp2y3wRski-78">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4889p7bt1avp2y3wRski-80" value="Uczestnik w webinarze" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,6 +50,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4889p7bt1avp2y3wRski-89" value="Stanowisko" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="465" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4889p7bt1avp2y3wRski-90" value="+Nazwa Stanowiska&lt;br&gt;+ Uprawnienia&lt;br&gt;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="4889p7bt1avp2y3wRski-89">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
