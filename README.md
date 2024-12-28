@@ -1,2 +1,2 @@
 # DataBase-Project-MSST
-Baza Danych utworzona przez Szymina Tyburczy oraz Marka Swakonia.
+Baza Danych utworzona przez Szymona Tyburczy oraz Marka Swakonia.
