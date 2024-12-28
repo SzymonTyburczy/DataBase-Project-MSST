@@ -1,15 +1,16 @@
+
 # Kategoria Webinars
 
 ## Tabela Webinars
 
 Zawiera informacje o webinarach:
 
-- **Webinar_ID** int – klucz główny, identyfikator webinaru
-- Instructor_ID int – klucz obcy, identyfikator instruktora
-- Translator_ID int NULL – klucz obcy, identyfikator tłumacza
-- Webinar_Name varchar(40) – nazwa webinaru
-- Webinar_Date date – data webinaru
-- Language_ID int – klucz obcy, identyfikator języka
+- **Webinar\_ID** int – klucz główny, identyfikator webinaru
+- Instructor\_ID int – klucz obcy, identyfikator instruktora
+- Translator\_ID int NULL – klucz obcy, identyfikator tłumacza
+- Webinar\_Name varchar(40) – nazwa webinaru
+- Webinar\_Date date – data webinaru
+- Language\_ID int – klucz obcy, identyfikator języka
 
 ```sql
 CREATE TABLE Webinars (
@@ -23,14 +24,14 @@ CREATE TABLE Webinars (
 );
 ```
 
-## Tabela Webinar_Details
+## Tabela Webinar\_Details
 
 Zawiera szczegółowe informacje o webinarach:
 
-- **Webinar_ID** int – klucz główny, identyfikator webinaru
+- **Webinar\_ID** int – klucz główny, identyfikator webinaru
 - Price money – cena webinaru
 - Details nvarchar(max) – szczegóły webinaru
-- Link_To_Recording nvarchar(max) – link do nagrania
+- Link\_To\_Recording nvarchar(max) – link do nagrania
 - Duration int – czas trwania webinaru (w minutach)
 
 ```sql
@@ -44,14 +45,14 @@ CREATE TABLE Webinar_Details (
 );
 ```
 
-## Tabela Participant_Webinar
+## Tabela Participant\_Webinar
 
 Zawiera informacje o udziale uczestników w webinarach:
 
-- **Webinar_ID** int – klucz główny, identyfikator webinaru
-- Participant_ID int – klucz główny, identyfikator uczestnika
-- Webinar_Payment bit – status płatności za webinar
-- Webinar_Access bit – status dostępu do webinaru
+- **Webinar\_ID** int – klucz główny, identyfikator webinaru
+- Participant\_ID int – klucz główny, identyfikator uczestnika
+- Webinar\_Payment bit – status płatności za webinar
+- Webinar\_Access bit – status dostępu do webinaru
 
 ```sql
 CREATE TABLE Participant_Webinar (
