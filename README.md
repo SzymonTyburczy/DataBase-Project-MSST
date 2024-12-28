@@ -1,2 +1,2 @@
 # DataBase-Project-MSST
-skibidi baza danych
+Baza Danych utworzona przez Szymina Tyburczy oraz Marka Swakonia.
