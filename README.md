@@ -1,10 +1,7 @@
-# DataBase-Project-MSST
+# DataBase-Project
 Baza Danych utworzona przez Szymona Tyburczy oraz Marka Swakonia.
 
-
-PBD 23/24 - Projekt
-
-Projekt realizowany w ramach przedmiotu Podstawy Baz Danych (PBD) na kierunku Informatyka AGH wydziału Informatyki.
+PBD 24/25 - Projekt realizowany w ramach przedmiotu Podstawy Baz Danych (PBD) na kierunku Informatyka AGH wydziału Informatyki.
 
 Polecenie
 
