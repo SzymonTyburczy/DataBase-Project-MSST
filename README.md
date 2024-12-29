@@ -3,23 +3,24 @@ Baza Danych utworzona przez Szymona Tyburczy oraz Marka Swakonia.
 
 PBD 24/25 - Projekt realizowany w ramach przedmiotu Podstawy Baz Danych (PBD) na kierunku Informatyka AGH wydziału Informatyki.
 
-[![Polecenie]([Tresc Polecenia.pdf])]
+### [![Polecenie]([Tresc Polecenia.pdf])]
 
-Nasze założenia
+### Nasze założenia
+Aby se
 
 
-## Schemat bazy danych
+### Schemat bazy danych
 
 Kliknij na obrazek, aby zobaczyć pełny schemat:
 
 [![Schemat bazy danych](project_for_PBD_24_25-2024-12-14_21-59.png)](project_for_PBD_24_25-2024-12-14_21-59.png)
 
 
-Opis pracy
+### Opis pracy
 
-Projektowanie
+### Projektowanie
 
-Opis użytkowników i funkcje jakie mogą wykonywać:
+### Opis użytkowników i funkcje jakie mogą wykonywać:
 
 Użytkownicy mogą przeglądać dostępne kursy, webinary oraz studia.
 
@@ -27,7 +28,7 @@ Mogą zapisywać się na zajęcia i zarządzać swoimi płatnościami.
 
 Mają możliwość kontaktu z dyrektorem.
 
-Funkcje systemu:
+### Funkcje systemu:
 
 Zarządzanie użytkownikami, kursami, studiami, i webinarami.
 
@@ -39,7 +40,7 @@ Generowanie raportów dla dyrektora.
 
 Implementacja
 
-Projekt oraz schemat bazy danych
+### Projekt oraz schemat bazy danych
 
 Kategoria People: Opisuje użytkowników, pracowników i tłumaczy.
 
@@ -51,7 +52,7 @@ Kategoria Courses: Dotyczy kursów i ich różnych rodzajów spotkań.
 
 Kategoria Orders: Przechowuje informacje o zamówieniach i płatnościach.
 
-Opisy tabel
+### Opisy tabel
 
 Kategoria People: Szczegóły dotyczące tabel użytkowników, pracowników i tłumaczy.
 
