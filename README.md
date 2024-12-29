@@ -1,7 +1,7 @@
 # DataBase-Project
 Baza Danych utworzona przez Szymona Tyburczy oraz Marka Swakonia.
 
-PBD 24/25 - Projekt realizowany w ramach przedmiotu Podstawy Baz Danych (PBD) na kierunku Informatyka AGH wydziału Informatyki.
+PBD 24/25 - Projekt realizowany w ramach przedmiotu Podstawy Baz Danych (PBD) na kierunku Informatyka wydziału Informatyki AGH .
 
 ### [![Polecenie](https://github.com/SzymonTyburczy/DataBase-Project-MSST/blob/main/projektbazy/icons8-adobe-acrobat-reader-96.png)](https://github.com/SzymonTyburczy/DataBase-Project-MSST/blob/main/Tresc%20Polecenia.pdf)
 
@@ -28,6 +28,7 @@ Mogą zapisywać się na zajęcia i zarządzać swoimi płatnościami.
 
 Mają możliwość kontaktu z dyrektorem.
 
+
 ### Funkcje systemu:
 
 Zarządzanie użytkownikami, kursami, studiami, i webinarami.
@@ -39,6 +40,8 @@ Integracja z systemem płatności.
 Generowanie raportów dla dyrektora.
 
 Implementacja
+
+
 
 ### Projekt oraz schemat bazy danych
 
@@ -52,6 +55,8 @@ Kategoria Courses: Dotyczy kursów i ich różnych rodzajów spotkań.
 
 Kategoria Orders: Przechowuje informacje o zamówieniach i płatnościach.
 
+
+
 ### Opisy tabel
 
 Kategoria People: Szczegóły dotyczące tabel użytkowników, pracowników i tłumaczy.
@@ -64,10 +69,10 @@ Kategoria Courses: Szczegóły dotyczące tabel kursów i różnych rodzajów sp
 
 Kategoria Orders: Szczegóły dotyczące zamówień i płatności.
 
+
 ### Generowanie danych
 
 Dane zostały wygenerowane przy użyciu ChataGPT oraz strony mockaroo.com
-
 
 
 Widoki
