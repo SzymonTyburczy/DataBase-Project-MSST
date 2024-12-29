@@ -3,7 +3,7 @@ Baza Danych utworzona przez Szymona Tyburczy oraz Marka Swakonia.
 
 PBD 24/25 - Projekt realizowany w ramach przedmiotu Podstawy Baz Danych (PBD) na kierunku Informatyka AGH wydziału Informatyki.
 
-### [![Polecenie](https://github.com/SzymonTyburczy/DataBase-Project-MSST/blob/main/projektbazy/1200x600wa.png)](https://github.com/SzymonTyburczy/DataBase-Project-MSST/blob/main/Tresc%20Polecenia.pdf)
+### [![Polecenie](https://github.com/SzymonTyburczy/DataBase-Project-MSST/blob/main/Tresc%20Polecenia.pdf)](https://github.com/SzymonTyburczy/DataBase-Project-MSST/blob/main/Tresc%20Polecenia.pdf)
 
 ### Nasze założenia
 Aby se
